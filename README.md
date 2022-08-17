@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiaoduh
-- 👀 I’m interested in dev web, football and a lot of things
+- 👀 I’m interested in dev web, football, LH44 and a lot of things
 - 🌱 I’m mastering JS, React, Node. 
 - 📫 How to reach me clement.lidar@gmail.com
 
