@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoduh
-- 👀 I’m interested in dev web, football, LH44 and a lot of things
-- 🌱 I’m mastering JS, React, Node. 
+- 👀 I’m interested in dev web, OL, F1 and a lot of things like train, stock market, DIY
+- 🌱 I’m mastering JS, React, Node 
 - 📫 How to reach me clement.lidar@gmail.com
 
 <!---
