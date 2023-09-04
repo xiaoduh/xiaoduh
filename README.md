@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiaoduh
-- 👀 I’m interested in dev web, OL, F1 and a lot of things like train, stock market, DIY
+- 👀 I’m interested in dev web, OL, F1 and a lot of things like train, stocks market, DIY
 - 🌱 I’m mastering JS, React, Node 
 - 📫 How to reach me clement.lidar@gmail.com
 
